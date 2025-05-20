@@ -1,3 +1,8 @@
+![WhatsApp Image 2025-05-20 at 12 16 41 PM](https://github.com/user-attachments/assets/564bc3e4-9269-481b-ab41-b2d3aba0dd3a)
+![WhatsApp Image 2025-05-20 at 12 16 42 PM](https://github.com/user-attachments/assets/4eefa577-b625-466c-b134-bdc36f361c1d)
+![WhatsApp Image 2025-05-20 at 12 16 43 PM](https://github.com/user-attachments/assets/79affe21-b91f-479d-87bc-8e1c979610e5)
+![WhatsApp Image 2025-05-20 at 12 16 43 PM (1)](https://github.com/user-attachments/assets/2dafedd6-aa22-4cf5-832f-c08aee35b976)
+![WhatsApp Image 2025-05-20 at 12 16 44 PM](https://github.com/user-attachments/assets/5d663c37-e1a8-4826-b040-9989fc76f745)
 # GFT-Based-EEG-Signal-Classification-on-PYNQ-ZU-with-SVM
 This project implements a Graph Fourier Transform (GFT)-based feature extraction pipeline for EEG signal classification using the ASU imagined speech dataset. The complete processing pipeline has been deployed and tested on a PYNQ-ZU FPGA board, achieving a classification accuracy of 87.23% using an SVM (Support Vector Machine) classifier.
 
